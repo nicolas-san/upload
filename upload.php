@@ -4,6 +4,8 @@
  * @author Bouteillier Nicolas <contact@kaizendo.fr>
  * Date: 13/01/16
  *
+ * @license MIT
+ *
  * @Param string $varName Name of the form input var
  *
  * @Param string $directoryImagePath Path of the directory where to save the image ex: '../images/' - The final / is needed
