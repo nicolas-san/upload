@@ -14,7 +14,7 @@
  *
  * Error codes are :
  * -1 if varName ! isset
- * -2 if more than one extention ex: image.php.jpg
+ * -2 if more than one extension ex: image.php.jpg
  * -3 extension not allowed (other than jpg, gif and png)
  * -4 mime type not allowed (other than image/gif, image/jpeg,image/png )
  * -5 imagecreate* failed, image not valid
